@@ -4,11 +4,11 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/core-input",
-  "_release": "e19bc752a3",
+  "_release": "e192e2f66f",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "e19bc752a37a3a8aea7520b7df6da254219dc6ef"
+    "commit": "e192e2f66f87ea641410809767402da7ff1d5f7a"
   },
   "_source": "git://github.com/Polymer/core-input.git",
   "_target": "master",
